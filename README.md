@@ -1,7 +1,7 @@
 Meu nome é Leonardo Davi, tenho 19 anos, moro em Gravataí e estou cursando o quarto semestre de Análise e Desenvolvimento de Sistemas na Uniasselvi e estou estagiando no Tribunal de Justiça. 
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ldnrodriguesl&show_icons=true&theme=MonokaiPro"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ldnrodrigues&show_icons=true&theme=MonokaiPro"/>
 <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldnrodrigues&layout=compact&langs_count=16&theme=MonokaiPro"/>
 </div>
 
