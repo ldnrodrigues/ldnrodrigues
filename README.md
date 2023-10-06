@@ -17,7 +17,7 @@ Meu nome é Leonardo Davi, tenho 19 anos, moro em Gravataí e estou cursando o q
   ##
 
 <div>
-      <table border= "none"; align="center">
+      <table align="center">
         <tr>
             <td align="center"><a href="mailto:leonardonr@gmail.com"><img height="50" width="50" src="Ícones/Gmail Icon.png" target="_blank"></td>
             <td align="center"><a href="https://www.linkedin.com/in/leonardo-rodrigues/" target="_blank"><img height="50" width="50" src="Ícones/LinkedIn Icon.png" target="_blank"></td>
