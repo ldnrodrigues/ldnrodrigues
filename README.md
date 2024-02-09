@@ -1,4 +1,4 @@
-Meu nome é Leonardo Davi, tenho 20 anos, moro em Gravataí e estou cursando o quinto semestre de Análise e Desenvolvimento de Sistemas na Uniasselvi e estou estagiando no Tribunal de Justiça.
+Me chamo Leonardo Davi e tenho 20 anos, moro em Gravataí e estou cursando o quinto semestre de Análise e Desenvolvimento de Sistemas na Uniasselvi e estou estagiando no Tribunal de Justiça.
 Trabalho fazendo manutenção de páginas php em conjunto com a plataforma Wordpress.
 
 <div align="center">
