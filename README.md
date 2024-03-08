@@ -2,8 +2,8 @@ Me chamo Leonardo Davi e tenho 20 anos, moro em Gravataí e estou cursando o qui
 Trabalho fazendo manutenção de páginas php em conjunto com a plataforma Wordpress.
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ldnrodrigues&show_icons=true&theme=MonokaiPro"/>
-<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldnrodrigues&layout=compact&langs_count=16&theme=MonokaiPro"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ldnrodrigues&show_icons=true&theme=MonokaiPro"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldnrodrigues&layout=compact&langs_count=16&theme=MonokaiPro"/>
 </div>
 
 <div align="center" inline_block"><br>
@@ -18,11 +18,11 @@ Trabalho fazendo manutenção de páginas php em conjunto com a plataforma Wordp
   ##
 
 <div>
-      <table border: 0; align="center">
-        <tr>
-            <td align="center"><a href="mailto:leonardonr@gmail.com"><img height="50" width="50" src="Ícones/Gmail Icon.png" target="_blank"></td>
-            <td align="center"><a href="https://www.linkedin.com/in/leonardo-rodrigues/" target="_blank"><img height="50" width="50" src="Ícones/LinkedIn Icon.png" target="_blank"></td>
-            <td align="center"><a href="https://instagram.com/leozin_c7" target="_blank"><img height="50" width="50" src="Ícones/Instagram Icon.png" target="_blank"></td>
-        </tr>
-    </table>
+    <table border: 0; align="center">
+      <tr>
+        <td align="center"><a href="mailto:leonardonr@gmail.com"><img height="50" width="50" src="Ícones/Gmail Icon.png" target="_blank"></td>
+        <td align="center"><a href="https://www.linkedin.com/in/leonardo-rodrigues/" target="_blank"><img height="50" width="50" src="Ícones/LinkedIn Icon.png" target="_blank"></td>
+        <td align="center"><a href="https://instagram.com/leozin_c7" target="_blank"><img height="50" width="50" src="Ícones/Instagram Icon.png" target="_blank"></td>
+      </tr>
+  </table>
 </div>
