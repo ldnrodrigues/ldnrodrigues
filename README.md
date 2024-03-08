@@ -12,7 +12,7 @@ Trabalho fazendo manutenção de páginas php em conjunto com a plataforma Wordp
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="WP" height="40" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="WP" height="35" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Bootstrap" height="35" width="35" src="Ícones/bootstrap.png" >
 </div>
 
