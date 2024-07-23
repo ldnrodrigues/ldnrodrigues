@@ -1,5 +1,19 @@
-Me chamo Leonardo Davi e tenho 20 anos, moro em Gravataí e estou cursando o quinto semestre de Análise e Desenvolvimento de Sistemas na Uniasselvi e atualmente estagiando no Tribunal de Justiça do RS.
-Trabalho fazendo manutenção de páginas php em conjunto com a plataforma Wordpress.
+Oii 👋
+
+Me chamo Leonardo Rodrigues, tenho 20 anos e moro em Gravataí. Estou no 6º semestre de Análise e Desenvolvimento de Sistemas na UNIASSELVI e, em paralelo, sou estagiário no TJRS.
+
+Desde pequeno, sempre me interessei por tecnologia. Estou constantemente aberto a evoluir, tanto profissionalmente quanto pessoalmente. Possuo domínio avançado do inglês.
+
+Atualmente, estou me desenvolvendo em REACT e UX/UI e também tenho interesse em me tornar um desenvolvedor full-stack. Possuo experiência com PHP, HTML, CSS, Bootstrap e WordPress.
+
+No Tribunal de Justiça, realizo tarefas de desenvolvimento web, manutenções e atualizações em páginas PHP e WordPress. Desenvolvo e customizo temas para WordPress, participo de reuniões diárias (dailies) e aplico metodologias ágeis, especialmente SCRUM. Também utilizo GitLab para documentação e kanban, garantindo a organização e o registro das atividades em execução ou concluídas.
+
+Nos meus momentos de lazer, gosto de jogar videogame e assistir futebol.
+
+Estou sempre em busca de novas oportunidades para crescer e aprimorar minhas habilidades como desenvolvedor. Se quiser saber mais sobre meu trabalho, confira meu Portfólio/GitHub:
+
+Portfólio: https://ldnrodrigues.github.io/Meu-portfolio/
+GitHub: Ldnrodrigues
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ldnrodrigues&show_icons=true&theme=algolia"/>
