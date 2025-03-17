@@ -17,7 +17,7 @@ GitHub: Ldnrodrigues
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ldnrodrigues&show_icons=true&theme=algolia"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldnrodrigues&layout=compact&langs_count=16&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldnrodrigues&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
 <div align="center" inline_block"><br>
